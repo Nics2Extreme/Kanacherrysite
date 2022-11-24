@@ -4,7 +4,7 @@ function Navigation(){
     return (
     <nav class="sm:flex sm:items-start sm:justify sm:justify-between border rounded-sm px-10 py-5">
         <div class="flex">
-            <img src="src/assets/cherry.jpg" alt="cherry" class="w-8"/>
+            <img src="./src/assets/cherry.jpg" alt="cherry" class="w-8"/>
             <p class="text-md">Kanacherry</p>
         </div>
         <ul class="flex pt-2">

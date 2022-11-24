@@ -4,7 +4,7 @@ function Profile(){
        <aside class="w-6/12 sm:w-4/12">
             <div class="sm:w-full mx-3 my-3 border border-sm rounded-lg">
                 <div class="p-3 flex">
-                    <img src="src/assets/iroha.jpg" alt="profilePic" class="sm:w-4/12 mx-4 border rounded-full object-center"/>
+                    <img src="./src/assets/iroha.jpg" alt="profilePic" class="sm:w-4/12 mx-4 border rounded-full object-center"/>
                     <div>
                         <p class="pt-5">Kazama Iroha</p>
                         <p class="text-xs text-gray-400">@kazamairohach</p>

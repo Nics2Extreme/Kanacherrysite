@@ -86,7 +86,7 @@ function Content() {
           <div class="flex flex-wrap w-4/12">
             <div class="w-80 p-1 md:p-2 group relative">
             <img alt="gallery" class="block object-cover object-center w-80 h-80 rounded-lg"
-                src="src/assets/me.png"/>
+                src="./src/assets/me.png"/>
                 <div class="absolute top-0 left-0 w-full h-0 border rounded-lg flex flex-col justify-center items-center bg-gray-100 opacity-0 group-hover:h-full group-hover:opacity-50 duration-500">
                 <div class="absolute top-8 left-5">
                     <h2 class="text-2xl text-black">Me in Pink</h2>

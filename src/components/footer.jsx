@@ -11,8 +11,8 @@ function Footer() {
             <div class="sm:flex sm:items-center sm:justify-center">
                 <p class="text-black m-2">Powered by:</p>
                 <img src="/vite.svg" class="mr-2" alt="Vite logo" />
-                <img src="src/assets/react.svg" class="mr-2" alt="React logo" />
-                <img src="src/assets/logo-vercel.svg" class="w-10 mr-2" alt="Vercel logo" />
+                <img src="./src/assets/react.svg" class="mr-2" alt="React logo" />
+                <img src="./src/assets/logo-vercel.svg" class="w-10 mr-2" alt="Vercel logo" />
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
             <span class="block text-sm text-black sm:text-center">© 2022 <span class="hover:underline">Kanacherry™</span>. All Rights Reserved.</span>
